@@ -1,0 +1,24 @@
+[06:48:04] [User Authenticator #8/INFO]: UUID of player MiniJ147 is d6657145-72ea-4b6e-b1e3-eb552e5293fc
+[06:48:05] [Server thread/INFO]: MiniJ147[/172.19.0.1:44738] logged in with entity id 42054 at (3051.8634178006673, 124.0, 6102.313135184049)
+[06:48:05] [Server thread/INFO]: MiniJ147 joined the game
+[06:48:15] [Server thread/INFO]: MiniJ147 lost connection: Disconnected
+[06:48:15] [Server thread/INFO]: MiniJ147 left the game
+[06:49:33] [User Authenticator #9/INFO]: UUID of player MiniJ147 is d6657145-72ea-4b6e-b1e3-eb552e5293fc
+[06:49:34] [Server thread/INFO]: MiniJ147[/172.19.0.1:34944] logged in with entity id 42215 at (3051.8634178006673, 124.0, 6102.313135184049)
+[06:49:34] [Server thread/INFO]: MiniJ147 joined the game
+[06:54:36] [Server thread/INFO]: MiniJ147 lost connection: Disconnected
+[06:54:36] [Server thread/INFO]: MiniJ147 left the game
+[06:54:41] [RCON Listener #1/INFO]: Thread RCON Client /0:0:0:0:0:0:0:1 started
+[06:54:41] [Server thread/INFO]: [Rcon: Stopping the server]
+[06:54:41] [Server thread/INFO]: Stopping server
+[06:54:41] [RCON Client /0:0:0:0:0:0:0:1 #2/INFO]: Thread RCON Client /0:0:0:0:0:0:0:1 shutting down
+[06:54:41] [Server thread/INFO]: Saving players
+[06:54:41] [Server thread/INFO]: Saving worlds
+[06:54:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[06:54:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[06:54:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[06:54:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[06:54:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06:54:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06:54:41] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[06:54:42] [Server thread/INFO]: Thread RCON Listener stopped
